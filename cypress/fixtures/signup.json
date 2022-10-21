@@ -1,0 +1,27 @@
+{
+  "success": {
+    "name": "Belmizao",
+    "email": "belmizaodopix@samuraibs.com",
+    "password": "pwd123"
+  },
+  
+  "email_dup": {
+    "name": "Belmizao",
+    "email": "belmizaodopix@pix.com",
+    "password": "pwd123",
+    "is_provider": true
+  },
+ 
+  "email_inv": {
+    "name": "Xirildona do Pix",
+    "email": "xirilda.yahoo.com",
+    "password": "pwd123"
+  },
+  "short_password": {
+    "name": "Kikizona do Pix",
+    "email": "kikizonadopix@gmail.com",
+    "password": "p"
+  }
+  
+}
+
