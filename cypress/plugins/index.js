@@ -22,10 +22,10 @@ module.exports = (on, config) => {
   // `config` is the resolved Cypress config
 
   const pool = new Pool({
-    host: ,
-    user: ,
-    password: ,
-    database: ,
+    host: 'salt.db.elephantsql.com',
+    user: 'jywwwyeo',
+    password: 'A8rp2L3Fxxa4ONKv9a5svyQGcEKotQxu',
+    database: 'jywwwyeo',
     port: 5432
   })
 

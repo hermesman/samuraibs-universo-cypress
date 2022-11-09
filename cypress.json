@@ -1,9 +1,10 @@
 {
-    "baseUrl": "http://localhost:3000",
+    "baseUrl": "https://samuraibs-web-hermes.herokuapp.com",
+    "apiServer": "https://samuraiabs-api-hermes.herokuapp.com",
     "viewportWidth": 1400,
     "viewportHeight": 900,
     "pageLoadTimeout": 600000,
-    "defaultCommandTimeout": 18000,
+    "defaultCommandTimeout": 30000,
     "chromeWebSecurity": false
 
 }
