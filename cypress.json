@@ -6,6 +6,13 @@
     "pageLoadTimeout": 600000,
     "defaultCommandTimeout": 30000,
     "chromeWebSecurity": false,
+    "dbConfig": {
+        "host": "salt.db.elephantsql.com",
+        "user": "jywwwyeo",
+        "password": "A8rp2L3Fxxa4ONKv9a5svyQGcEKotQxu",
+        "database": "jywwwyeo",
+        "port": 5432
+    },
     "projectId": "7xhziy"
 
 }
