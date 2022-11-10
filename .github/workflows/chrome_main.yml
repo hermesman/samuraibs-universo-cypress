@@ -34,7 +34,7 @@ jobs:
         uses: cypress-io/github-action@v2
         with:
           # we have already installed all dependencies above
-          install-command: yarn install
+          install-command: npm install
           wait-on: 'https://samuraibs-web-hermes.herokuapp.com'
           wait-on-timeout: 120
           browser: chrome
