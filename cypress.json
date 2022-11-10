@@ -5,6 +5,7 @@
     "viewportHeight": 900,
     "pageLoadTimeout": 600000,
     "defaultCommandTimeout": 30000,
-    "chromeWebSecurity": false
+    "chromeWebSecurity": false,
+    "projectId": "7xhziy"
 
 }
